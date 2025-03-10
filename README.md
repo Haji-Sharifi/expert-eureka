@@ -34,8 +34,8 @@ Start the development server:
 
 🎨 Customization
 
-    Modify components in the src folder to add custom animations.
-    Use Tailwind classes for styling adjustments.
+Modify components in the src folder to add custom animations.
+Use Tailwind classes for styling adjustments.
 
 📷 Screenshots
 
