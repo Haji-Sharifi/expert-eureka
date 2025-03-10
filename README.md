@@ -13,9 +13,9 @@ A modern, highly interactive animated webpage built with React.js, Tailwind CSS,
 ✅ Interactive animations on page load and user interactions
 🛠️ Technologies Used
 
-    React.js – Frontend framework
-    Tailwind CSS – Utility-first styling
-    GSAP – High-performance animation library
+React.js – Frontend framework
+Tailwind CSS – Utility-first styling
+GSAP – High-performance animation library
 
 📦 Installation & Setup
 
