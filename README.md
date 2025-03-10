@@ -2,8 +2,10 @@
 
 A modern, highly interactive animated webpage built with React.js, Tailwind CSS, and GSAP. This project delivers smooth animations, engaging hover effects, and an immersive user experience.
 
-🔗 Live Demo: expert-eureka-three.vercel.app
-📂 GitHub Repository: github.com/Haji-Sharifi/expert-eureka
+🔗 Live Demo: 
+   expert-eureka-three.vercel.app
+📂 GitHub Repository: 
+   github.com/Haji-Sharifi/expert-eureka
 🚀 Features
 
 ✅ React.js for a modular and efficient UI
