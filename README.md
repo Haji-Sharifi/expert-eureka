@@ -19,7 +19,7 @@ A modern, highly interactive animated webpage built with React.js, Tailwind CSS,
 
 📦 Installation & Setup
 
-    Clone the repository:
+    Clone the repository:https://github.com/Haji-Sharifi/expert-eureka.git
 
 git clone https://github.com/Haji-Sharifi/expert-eureka.git
 cd expert-eureka
