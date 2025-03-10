@@ -26,7 +26,7 @@ cd expert-eureka
 
 Install dependencies:
 
-npm install
+    npm install
 
 Start the development server:
 
